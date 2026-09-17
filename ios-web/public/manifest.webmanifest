@@ -1,1 +1,10 @@
-{"name":"M叽 iOS Web","short_name":"M叽","start_url":"/","display":"standalone","background_color":"#111111","theme_color":"#111111","lang":"zh-CN","icons":[]}
+{
+  "name": "M叽 iOS Web",
+  "short_name": "M叽",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "lang": "zh-CN",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
